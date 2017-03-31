@@ -1,5 +1,5 @@
 module.exports = {
-	entry: './assets/js/main.js',
+	entry: './src/js/main.js',
 	output: {
 		filename: './theme/js/client.js'
 	},

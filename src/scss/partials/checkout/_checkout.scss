@@ -1,0 +1,9 @@
+.checkout #content .col-1 {width:69%;}
+.checkout #content .col-2 {width:29%;position:absolute;top:10px;right:0;}
+.order li {width:100%;min-width:260px;background:#ddd;margin:0 0 5px;}
+.order li div {padding:1% 11px;position:relative;}
+.order li div span {background:#c00;color:#fff;position:absolute;top:30px;left:-14px;width:20px;padding:2px;text-align:center;}
+.total-price {width:100%;}
+.total-price span:last-child {text-align:right;color:#000;}
+.total-price p {width:96% !important;padding:1% 2%;}
+.total-price p:last-child {margin:10px 0;padding:10px 2%;background:#ddd;}

@@ -1,0 +1,58 @@
+.b-norepeat,.searchbar-top,.top-link {background-repeat:no-repeat;}
+.bck-cover,.b-cover {background-size:cover;}
+.bck-contain {background-size:contain;}
+.top-link {background-color:transparent;}
+.fd-grey,#modal-bckground,.bg-preloadr {background-image:url('http://www.link.hstrunk.com/theme/images/bg_trans.png');}
+.fd-dark {background-image:url('http://www.link.hstrunk.com/theme/images/bg_dark.png');}
+.searchbar-top {background-image:url('http://www.link.hstrunk.com/theme/images/search.png');}
+.pict-1,.itm-cg-box,.cfg-pict span {background-image:url('http://www.link.hstrunk.com/theme/images/sprite-admin-icons.png');background-repeat:no-repeat;}
+.pict-2 {background-image:url('http://www.link.hstrunk.com/theme/images/sprite-site-icons.png');}
+.pict-4 {background-image:url('/theme/images/pages/sprite-icons-skills.png');}
+.top-link,.pict-3 {background-image:url('http://www.link.hstrunk.com/theme/images/sprite-top-link.png');}
+.block-civilite li strong {background-image:url('http://www.link.hstrunk.com/theme/images/icon-gender.png');}
+.picto-member {background-image:url('http://www.link.hstrunk.com/theme/images/sprite-member.png');}
+.preload-box,.img-link-box {background-image:url('http://www.link.hstrunk.com/theme/images/loading.gif');}
+/*Background colors*/
+.bg-white,.block-order-prdct {background-color:#fff;}
+.bg-grey,.radio-box li div,.checkbox-input div,.pagination a,.pagination span,.page_navigation a,.page_navigation span,.member-nav nav li {background-color:#ddd;}
+.bg-dark {background-color:#000;}
+.bg-dark-2, .switchr-btn.switchr-on,.searchbar-top,.page_navigation .active_page,.block-order-prdct a {background-color:#333;}
+.bg-green-1 {background-color:#99bc42;}
+.bg-green-2 {background-color:#55ea38;}
+.bg-green-3 {background-color:#98ed33;}
+.bg-yellow-1 {background-color:#f0ff08;}
+.bg-orange-1 {background-color:#ff7d00;}
+.bg-red-1 {background-color:#aa4b4b;}
+.bg-red-2 {background-color:#ae1b1b;}
+.bg-blue-1 {background-color:#3089db;}
+.bg-blue-2 {background-color:#174796;}
+.bg-blue-3 {background-color:#4e6884;}
+.bg-grey-1 {background-color:#e2e2e2;}
+.bg-grey-2,.share-bar a,.item-cfg-tpl a:hover {background-color:#ccc;}
+.bg-grey-3 {background-color:#8e8e8e;}
+.bg-grey-4 {background-color:#999;}
+
+/*Specifics colors*/
+#content article.col-1,#bandetop,#infosAdmin,#colonne2 ul li a:hover,.tabs li a:hover {background-color:#898989;}
+#nav-member-top a:hover,.blockclient,.btnSubmit,.user-box-infos,.color-map,.btn-cls-window {background-color:#7cc762;}
+.bg-site,#menubar ul li a:hover,.bande_top,.check-cart #count-cart,.btnSubmit,.col-1 .member-nav h2,.member-nav nav li:hover,#menubar li .color-link,.pagination a:hover,.block-order-prdct a:hover,.stats-order li.white     {background-color:#56093b;}
+.checkbox-input.selected,.ui-chckbox.checked {background-color:#8bd533;}
+.checkbox-input.selected div,.ui-chckbox.checked span {background-color:#b0e858;}
+.radio-box li div.selected {background-color:#91cc47;}
+.checkbox-input,.block-civilite li {background-color:#f1f1f1;}
+.alert-box {background-color:#aaa;}
+.mbox-1 {background-color:#70a248;}
+.mbox-2 {background-color:#c00;}
+.msg-info-top {background-color:#777;}
+.msg-info-top.alert {background-color:#F7930f;}
+.msg-info-top.redAlert {background-color:#c00;}
+.msg-info-top.promo {background-color:#9CC967;}
+.msg-info-top.info {background-color:#8dcbdb;}
+.share-btn-details,.support-file-options .selected {background-color:#fc0;}
+.block-civilite .selected.gender-1 {background-color:#1d6e90;}
+.block-civilite .selected.gender-1 div {background-color:#1f82ab;}
+.block-civilite .selected.gender-2,.block-civilite .selected.gender-3 {background-color:#a24171;}
+.block-civilite .selected.gender-2 div,.block-civilite .selected.gender-3 div {background-color:#bf5288;}
+
+@import 'partials/general/backgrounds/_buttons';
+@import 'partials/general/backgrounds/_social-links';
