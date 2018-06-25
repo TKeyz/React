@@ -1,0 +1,40 @@
+//IMPORT VARIABLES
+@import 'variables/_default-values';
+@import 'variables/_media-queries';
+@import 'variables/_sizes';
+@import 'variables/_px-sizes';
+@import 'variables/_prc-sizes';
+@import 'variables/_em-sizes';
+
+//CREATE FILE
+@import 'https://hstrunk.com/CGHXcnt/theme/styles/reset.css';
+@import '_fonts-face';
+
+/*------------------------ SITE ----------------------------*/
+@import 'partials/general/_main-values';
+/*GLOBAL*/
+@import 'partials/general/_fonts-size';
+@import 'partials/general/_line-height';
+@import 'partials/general/_margins';
+@import 'partials/general/_paddings';
+@import 'partials/general/_main-widths';
+@import 'partials/general/_borders-shadows.scss';
+@import 'partials/general/_borders.scss';
+
+@import 'partials/responsive/_media-queries_mobile.scss';
+@import 'partials/responsive/_media-queries_tablet.scss';
+@import 'partials/responsive/_media-queries_desktop-1.scss';
+@import 'partials/responsive/_media-queries_desktop-2.scss';
+@import 'partials/responsive/_media-queries_desktop-3.scss';
+
+@import 'partials/general/_buttons';
+
+@import 'partials/_wysiwyg-editor';
+
+@import 'partials/general/colors/_main-colors';
+@import 'partials/general/backgrounds/_backgrounds';
+
+@import 'partials/general/backgrounds/_general-icons';
+@import 'partials/general/backgrounds/_share-social-links-icons';
+@import 'partials/general/backgrounds/_social-links-icons';
+@import 'partials/general/backgrounds/_skills-icons';

@@ -1,0 +1,32 @@
+.item-bars {width:100%;}
+.txt-rich,.editor-box {width:99%;}
+.editr-wysiwyg {width:99.6%;}
+.textarea-box {width:97.5%;}
+.txt-rich,.item-bars {float:left;}
+.control-view,.item-bars {margin:0;padding:0;list-style-type:none;}
+.control-view li.selected {background-color:#333;}
+.control-view li,.item-bars li,.editr-wysiwyg nav li {display:inline-block;}
+.item-bars,.control-view li,.wysiwyg-itms .btn-value:hover {background:#ccc;}
+.editr-wysiwyg {background-color:#ddd;border:1px solid #ccc;}
+.editor-box {color:#333;border:none;}
+.editor-box,.txt-rich {padding:0.5%;}
+.txt-rich {background-color:#222;}
+.editor-box img {cursor:default;}
+.item-bars li,#editor nav li {margin:0;text-align:center;padding:10px;background:#ddd;margin:2px;}
+.item-bars li:hover,#editor nav li:hover {background:#aaa;}
+.wysiwyg-itms .btn-value em {width:22px;height:22px;}
+.wysiwyg-itms li[data-value=i-btn] em,.wysiwyg-itms li[data-value=a-btn] em,.wysiwyg-itms li[data-value=s1-btn] em {width:26px;}
+.wysiwyg-itms li[data-value=img-btn] em {width:32px;}
+.wysiwyg-itms em {background-image: url('https://link.hstrunk.com/theme/images/sprite-site-icons.png');}
+.wysiwyg-itms li[data-value=g-btn] em {background-position:3px -112px;}
+.wysiwyg-itms li[data-value=s-btn] em {background-position:-14px -112px;}
+.wysiwyg-itms li[data-value=i-btn] em {background-position:-108px -112px;}
+.wysiwyg-itms li[data-value=s1-btn] em {background-position:-79px -112px;}
+.wysiwyg-itms li[data-value=a-btn] em {background-position:-278px -112px;}
+.wysiwyg-itms li[data-value=img-btn] em {background-position:-223px -112px;}
+.wysiwyg-itms li[data-value=vdo-btn] em {background-position:-10px -112px;}
+.wysiwyg-itms li[data-value=txt1-btn] em {background-position:-10px -112px;}
+.wysiwyg-itms li[data-value=txt2-btn] em {background-position:-10px -112px;}
+.wysiwyg-itms li[data-value=txt3-btn] em {background-position:-180px -112px;}
+.wysiwyg-itms li[data-value=txt4-btn] em {background-position:-10px -112px;}
+/*.wysiwyg-itms li[data-value=i-btn] em {background-position:-10px -112px;}*/

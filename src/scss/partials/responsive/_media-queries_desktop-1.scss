@@ -1,0 +1,33 @@
+@media screen and ($media-queries-device-1: $media-queries-dsktop-1-size-1) and ($media-queries-device-2: $media-queries-dsktop-1-size-2) {
+	.floatr-r {float:left;}
+	.fourth-box {width:23%;}
+	.tab-box-30,.blk-box-30,.col-2 {width:30%;}
+	.smart-box,.min-tab,.small-box,.order-box .btnSubmit,.input-box .pos-1,.input-box .pos-2,.input-box .pos-3 {width:31.3%;}
+	.double-box-1,.double-box-2,.inpt-field-4 {width:48%;}
+	.alert-box {width:550px;}
+	textarea {width:68%;}
+	/*FORMS*/
+	fieldset.screen {width:47% !important;margin:1% 0.5%;}
+	.inpt-field-1,.change-update-box {width:64%;}
+	.input-box select {width:66%;}
+	.blk-box-70,.tab-box-70,.col-1 {width:70%;}
+	.blk-box-big {width:88%;}
+	.tab-box-960,.blk-box-960 {width:960px;}
+	.tab-box-1024,.blk-box-1024 {max-width:1024px;}
+	.tab-box-1280,.blk-box-1280 {max-width:1280px;}
+	.inpt-field-2 {width:97%;}
+	.inpt-field-3 {width:68.5%;}
+	.blk-box-98 {width:98%;}
+	.center-blk,.tab-mdm-box {width:100%;}
+	.viewr-box.screen-h-380 {height:380px;}
+	.screen-h-500 {height:500px;}
+	.screen-rsp-600 {height:600px;}
+	.screen-rsp-700 {height:700px;}
+	.sbmt-link, .sbmt-link-2 {padding:8px;}
+	.box-share-viewer {width:200px;right:-50%;}
+	.actu-msg-box {right:-10px;bottom:80px;}
+	.slide-ctrl-btn {width:80px;}
+	.slide-ctrl-btn[data-pos=prev],.slide-ctrl-btn[data-pos=next]{top:250px;}
+	.slide-ctrl-btn[data-pos=prev]{left:0;}
+	.slide-ctrl-btn[data-pos=next]{right:0;}
+}

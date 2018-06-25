@@ -13,7 +13,7 @@ module.exports = function(grunt) {
       },
       dist: {
         files: {
-          'theme/js/script.min.js': ['theme/js/jquery/*.js', '!theme/js/jquery/*.min.js']
+          'theme/js/client.min.js': ['theme/js/*.js', '!theme/js/*.min.js']
         }
       }
     },
@@ -28,7 +28,7 @@ module.exports = function(grunt) {
       },
       dist: {
         files: {
-          'theme/js/script.min.js': ['theme/js/script.min.js']
+          'theme/js/client.min.js': ['theme/js/client.min.js']
         }
       }
     },
@@ -40,7 +40,7 @@ module.exports = function(grunt) {
       },
       target: {
         files: {
-          'theme/styles/style.css': ['assets/css/global.css', 'assets/css/site.css']
+          'theme/styles/style.css': ['src/css/global.css', 'src/css/site.css']
         }
       }
     },

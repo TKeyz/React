@@ -1,0 +1,8 @@
+.rounded {border-radius:12px;-moz-border-radius-top:12px;-webkit-border-radius-top:12px;khtml-border-radius-top:12px;}
+.min-rounded,.pagination a,.pagination span,.page_navigation a,.page_navigation span {border-radius:5px;-moz-border-radius-top:5px;-webkit-border-radius-top:5px;khtml-border-radius-top:5px;}
+.rounded-left-top {border-top-left-radius:8px;-moz-border-radius-topleft:8px;-webkit-border-left-top-radius:8px;khtml-border-radius-topleft: 8px;}
+.rounded-right-top {border-top-right-radius:8px;-moz-border-radius-topright:8px;-webkit-border-top-right-radius:8px;khtml-border-radius-topright: 8px;}
+.rounded-left-bottom {border-bottom-left-radius:8px;-moz-border-radius-bottomleft:8px;-webkit-border-bottom-left-radius:8px;khtml-border-radius-bottomleft: 8px;}
+.shadow {box-shadow: 1px 1px 8px #222;filter:progid:DXImageTransform.Microsoft.Shadow(color='#193c4c',Direction=135,Strength=4);zoom:1;}
+.shadow-light,.item-cfg-tpl a:hover {box-shadow: 1px 1px 5px #CCC;filter:progid:DXImageTransform.Microsoft.Shadow(color='#CCC',Direction=135,Strength=2);zoom:1;}
+.text-shadow {text-shadow: 1px 1px 2px #999;filter:progid:DXImageTransform.Microsoft.Shadow(color='#999999', Direction=135, Strength=2);zoom: 1;}

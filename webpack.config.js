@@ -1,13 +1,21 @@
+const path = require('path');
+
 module.exports = {
-	entry: './assets/js/main.js',
+	//mode: 'development',
+	entry: './src/js/App.js',
 	output: {
-		filename: './theme/js/client.js'
+		path: path.join(__dirname, '/theme/js'),
+		filename: 'client.js'
 	},
 	module: {
-		rules: [{
-			test: /\.js$/,
-			exclude: /node_modules/,
-			use: "babel-loader"
-		}]
+		rules: [
+			{
+				test: /\.js$/,
+				exclude: /node_modules/,
+				use: {
+					loader: 'babel-loader'
+				},
+			}
+		]
 	}
 }

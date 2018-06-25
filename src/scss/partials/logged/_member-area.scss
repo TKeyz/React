@@ -1,0 +1,27 @@
+/* MEMBER AREA */
+.member-area #center .col-1 {width:25.5%;}
+.member-area #center .col-2 {width:73.6%;}
+.member-nav h2,.member-area section .block div,.member-nav nav,#open-member-nav {width:100%;}
+.member-area .col-1 div h2,.member-nav h2 {text-align:center;padding:2% 0;}
+/*.member-nav nav,.col-1 .member-nav nav {padding:2% 10px;}*/
+.member-nav .user-img-link {height:65px;}
+.member-nav .user-info-link {width:68%;padding:10px 2% 0;line-height:16px;}
+.member-nav nav li {list-style-type:none;margin:0 0 3px;}
+.member-nav nav a {width:98%;display:block;padding:1%;}
+.member-area #content .infos {width:46%;margin:0.5%;position:relative;}
+.member-area #content .infos,.member-area #content .block {padding:1%;margin:0.5% 0.5% 10px;}
+.member-area #content .infos article {width:222px;}
+.member-area #content .block {width:96%;}
+.picto-member,.member-area .order,.member-area .points,.member-area .profil,.member-area .faq,.member-area .contact {width:65px;height:70px;border:none;}
+.member-area .order {background-position:0 0;}
+.member-area .points {background-position:0 0;}
+.member-area .profil {background-position:130px 0;}
+.member-area .faq {background-position:195px 0;}
+.member-area .contact {background-position:65px 0;}
+.member-area .block span {margin:6px 0;}
+.member-area .block .num-order,.member-area .block .total,.member-area .block .statut {margin-left:4%;}
+.member-area .block .renew {margin-left:1%;}
+/*Member orders*/
+.member-area .desc-order {margin:0 0 10px;}
+.member-area .desc-order li {width:100%;}
+.member-area table td,.member-area table th {width:20%;}
