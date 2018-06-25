@@ -1,4 +1,4 @@
-@import "https://hstrunk.com/CGHXcnt/theme/styles/reset.css";
+@import "https://link.hstrunk.com/theme/styles/reset.css";
 @font-face {
   font-family: ft-site-1;
   src: url("/theme/fonts/tkeyz-1.eot");
@@ -1907,28 +1907,48 @@ a, .color-link, .slogan, #formProduct h2, form legend {
 
 /* line 5, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .fd-grey, #modal-bckground, .bg-preloadr {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/bg_trans.png");
+=======
+  background-image: url("s/theme/images/bg_trans.png");
+>>>>>>> dev
 }
 
 /* line 6, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .fd-dark {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/bg_dark.png");
+=======
+  background-image: url("https://link.hstrunk.com/theme/images/bg_dark.png");
+>>>>>>> dev
 }
 
 /* line 7, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .searchbar-top {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/search.png");
+=======
+  background-image: url("https://link.hstrunk.com/theme/images/search.png");
+>>>>>>> dev
 }
 
 /* line 8, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .pict-1, .itm-cg-box, .cfg-pict span {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/sprite-admin-icons.png");
+=======
+  background-image: url("https://link.hstrunk.com/theme/images/sprite-admin-icons.png");
+>>>>>>> dev
   background-repeat: no-repeat;
 }
 
 /* line 9, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .pict-2 {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/sprite-site-icons.png");
+=======
+  background-image: url("https://link.hstrunk.com/theme/images/sprite-site-icons.png");
+>>>>>>> dev
 }
 
 /* line 10, ../scss/partials/general/backgrounds/_backgrounds.scss */
@@ -1938,22 +1958,38 @@ a, .color-link, .slogan, #formProduct h2, form legend {
 
 /* line 11, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .top-link, .pict-3 {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/sprite-top-link.png");
+=======
+  background-image: url("https://link.hstrunk.com/theme/images/sprite-top-link.png");
+>>>>>>> dev
 }
 
 /* line 12, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .block-civilite li strong {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/icon-gender.png");
+=======
+  background-image: url("https://link.hstrunk.com/theme/images/icon-gender.png");
+>>>>>>> dev
 }
 
 /* line 13, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .picto-member {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/sprite-member.png");
+=======
+  background-image: url("https://link.hstrunk.com/theme/images/sprite-member.png");
+>>>>>>> dev
 }
 
 /* line 14, ../scss/partials/general/backgrounds/_backgrounds.scss */
 .preload-box, .img-link-box {
+<<<<<<< HEAD
   background-image: url("http://www.link.hstrunk.com/theme/images/loading.gif");
+=======
+  background-image: url("https://link.hstrunk.com/theme/images/loading.gif");
+>>>>>>> dev
 }
 
 /*Background colors*/

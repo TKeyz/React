@@ -1,30 +1,32 @@
 import React from 'react';
 
-import Footer from './Footer';
 import Header from './Header';
+import Content from './Content';
+import Footer from './Footer';
 
-export default class Layout extends React.Component {
+class Layout extends Component {
 
 	constructor(){
 		super();
-		this.state = {name: "Will"};
+		this.state = {title: "Welcome", name: "Hello"};
 	}
-	changeTitle(title){
-		this.setState({title});
+	changeTitle(name){
+		this.setState({name});
 	}
 
 	render() {
-		const totle = "Welcome";
-		const test = "Le chien est bleu, et la terre est jaune !";
 		//setTimeout(() => {
 		//	this.setState({name: "Bob"});
 		//}, 1000)
 		return (
-			<div>
-				<Header changeTitle={this.changeTitle.bind(this)} name={"something"} title={totle} />
-				<div>{this.state.name} {test}</div>
+			<div className="blk-box-70 hmarg-auto">
+				<Header title={this.state.title} />
+				<Content changeTitle={this.changeTitle.bind(this)} name={this.state.name} />
+				<div></div>
 				<Footer />
 			</div>
 		);
 	}
 }
+
+export default Layout;
